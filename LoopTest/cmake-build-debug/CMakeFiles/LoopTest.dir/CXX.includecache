@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/appsupport/CLionProjects/LoopTest/cmake-build-debug/TestClass.cpp
+TestClass.h
+/Users/appsupport/CLionProjects/LoopTest/cmake-build-debug/TestClass.h
+
+/Users/appsupport/CLionProjects/LoopTest/cmake-build-debug/TestClass.h
+
+/Users/appsupport/CLionProjects/LoopTest/main.cpp
+iostream
+-
+cmake-build-debug/TestClass.h
+/Users/appsupport/CLionProjects/LoopTest/cmake-build-debug/TestClass.h
+
