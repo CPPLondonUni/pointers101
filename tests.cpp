@@ -3,6 +3,7 @@
 
 #include "exercise.hpp"
 
+
 #include "catch.hpp"
 
 template <typename T, typename = void>
