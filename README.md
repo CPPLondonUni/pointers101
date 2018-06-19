@@ -1,5 +1,5 @@
 
-# C++ London University #
+# This project was forked from C++ London University #
 
 ## Week 7: Basic pointer exercises ##
 
